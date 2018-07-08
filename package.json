@@ -1,14 +1,10 @@
 {
-  "name": "gulp4",
+  "name": "yarn-start",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": "git@github.com:pahonski/yarn-start.git",
+  "author": "Pavel <pahonski@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.24.5",
     "del": "^3.0.0",
